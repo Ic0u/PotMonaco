@@ -1,6 +1,6 @@
 # Potassium Monaco Remake
 
-A modern, lightweight code editor inspired by Potassium, rebuilt using the [Monaco Editor](https://microsoft.github.io/monaco-editor/). This project aims to provide a fast, beautiful, and customizable coding experience in the browser, with support for multiple tabs, syntax highlighting, and more.
+A modern, lightweight code editor inspired by Potassium, rebuilt using the [Monaco Editor](https://microsoft.github.io/monaco-editor/). 
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ This project is a tribute to the original Potassium editor, now rebuilt with Mon
 
 ## Credits
 - [Monaco Editor](https://github.com/microsoft/monaco-editor)
-- Original Potassium project inspiration
+- [Pottasium](https://potassium.sellhub.cx/)
 
 ## License
 
